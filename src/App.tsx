@@ -8,9 +8,11 @@ import {
 function App() {
   const cards = [
     { title: 'ELAD', link: '#', logo: 'elad.png',
-      description: 'English Literary and Debate Society, the bastion of english in our college.' },
-    { title: 'HLAD', link: '#' , logo: 'hlad.png', 
-      description: 'Hindi Literary and Debating Society, the devotees of our mother tongue.'},
+      description: 'The English Literary and Debating Society is a haven for students who are enthralled by the language and work to develop their skills and entire persona.' },
+    { title: 'HLAD', link: 'https://hlad.netlify.app/' , logo: 'hlad.png', 
+      description: 'हिन्दी साहित्यिक एवं वाद-विवाद समिति ,छात्रों के अभिव्यक्ति कौशल और संपूर्ण व्यक्तित्व को विकसित करने के लिए जानी जाती है।'},
+    { title: 'OLAD', link: 'https://hlad.netlify.app/olad' , logo: 'hlad.png', 
+    description: 'अन्य भाषा  साक्षरता एवं वाद-विवाद समिति की स्थापना भारत के विभिन्न क्षेत्रों की समृद्ध सांस्कृतिक विरासत और विविध पहचान को संरक्षित करने  के लिए की गई है।'},
     
     // Add more cards here
   ];
