@@ -1,9 +1,6 @@
 import {
     Navbar,
     Typography,
-    IconButton,
-    Button,
-    Input,
   } from "@material-tailwind/react";
    
   export function NavbarWithSearch() {
