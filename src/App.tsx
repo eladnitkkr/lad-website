@@ -7,7 +7,7 @@ import {
 
 function App() {
   const cards = [
-    { title: 'ELAD', link: 'https://eladnitkkr.github.io/ELAD-website', logo: 'elad.png',
+    { title: 'ELAD', link: 'https://elad-mun-website.vercel.app/', logo: 'elad.png',
       description: 'The English Literary and Debating Society is a haven for students who are enthralled by the language and work to develop their skills and entire persona.' },
     { title: 'HLAD', link: 'https://hlad.netlify.app/' , logo: 'hlad.png', 
       description: 'हिन्दी साहित्यिक एवं वाद-विवाद समिति ,छात्रों के अभिव्यक्ति कौशल और संपूर्ण व्यक्तित्व को विकसित करने के लिए जानी जाती है।'},
